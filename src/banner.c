@@ -4,7 +4,7 @@
 
 void banner_print(const char *group, const char *course, const char *title)
 {
-    printf("=== Kelompok 05 | Tugas 4 - Filesystem dan I/O ===\n")
+    printf("=== Kelompok 05 | Tugas 4 - Filesystem dan I/O ===\n");
 }
 
 void banner_print_menu(const char *const options[], unsigned int count)
